@@ -1,0 +1,7 @@
+c:\users\engin okur\documents\visual studio 2012\Projects\MenuPlugIn\MenuPlugin\bin\Debug\MenuPlugin.dll
+c:\users\engin okur\documents\visual studio 2012\Projects\MenuPlugIn\MenuPlugin\bin\Debug\MenuPlugin.pdb
+c:\users\engin okur\documents\visual studio 2012\Projects\MenuPlugIn\MenuPlugin\bin\Debug\PluginContracts.dll
+c:\users\engin okur\documents\visual studio 2012\Projects\MenuPlugIn\MenuPlugin\bin\Debug\PluginContracts.pdb
+c:\users\engin okur\documents\visual studio 2012\Projects\MenuPlugIn\MenuPlugin\obj\Debug\MenuPlugin.csprojResolveAssemblyReference.cache
+c:\users\engin okur\documents\visual studio 2012\Projects\MenuPlugIn\MenuPlugin\obj\Debug\MenuPlugin.dll
+c:\users\engin okur\documents\visual studio 2012\Projects\MenuPlugIn\MenuPlugin\obj\Debug\MenuPlugin.pdb
